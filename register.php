@@ -67,7 +67,7 @@
     $host = 'localhost'; 
     $dbname = 'mydb'; 
     $username = 'root'; 
-    $password = '@wasie123'; 
+    $password = ''; 
 
     try {
         // Create a PDO connection
